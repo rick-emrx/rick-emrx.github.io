@@ -1,0 +1,15 @@
+body {
+    background-color: #131313;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.h1-welcome {
+    font-size: 2em;
+}
